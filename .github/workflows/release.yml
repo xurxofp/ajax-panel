@@ -3,7 +3,8 @@ name: Release
 on:
   push:	
     branches:	
-      - main	
+      - main
+      - v0.2.0
   pull_request:	
     branches:	
       - main
